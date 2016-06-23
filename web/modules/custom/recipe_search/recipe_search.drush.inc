@@ -86,7 +86,6 @@ function drush_recipe_search_import_recipes() {
             'recipeCategory' => ['type' => 'string', 'index' => 'not_analyzed'],
             'url' => ['type' => 'string', 'index' => 'not_analyzed'],
             'image' => ['type' => 'string', 'index' => 'not_analyzed'],
-            'recipeCategory' => ['type' => 'string', 'index' => 'not_analyzed'],
           ]
         ]
       ]
