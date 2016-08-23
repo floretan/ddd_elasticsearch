@@ -37,7 +37,7 @@ Run Elasticsearch locally, by default it will be accessible under http://127.0.0
 ./elasticsearch/bin/elasticsearch
 ```
 
-Run Kibana locally, by default it will be accessible under http://127.0.0.1:5600
+Run Kibana locally, by default it will be accessible under http://127.0.0.1:5601
 ```
 ./kibana/bin/kibana
 ```
